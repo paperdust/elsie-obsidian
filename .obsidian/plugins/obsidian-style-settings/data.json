@@ -1,0 +1,17 @@
+{
+  "fancy-a-story@@theme-variant-dark": "fas-swamp",
+  "fancy-a-story@@fas-opposite-bg": false,
+  "fancy-a-story@@fas-skin-select": "none",
+  "fancy-a-story@@art-deco-color": "var(--color-accent)",
+  "kakano-style@@theme-setting-predefinedBaseColor": "theme-setting-baseColorPreset-kiwikiwi",
+  "pln@@font-ui-smaller": 16,
+  "pln@@font-ui-small": 16,
+  "fancy-a-story@@fas-floating-mode-button-position": "right",
+  "fancy-a-story@@fas-floating-mode-button": "disable",
+  "fancy-a-story@@fas-highlight-active-note": true,
+  "fancy-a-story@@fas-accessibility": true,
+  "fancy-a-story@@fas-sans-serif": false,
+  "fancy-a-story@@custom-color-base-00@@dark": "#2B4C61",
+  "fancy-a-story@@fas-adaptive-accent": false,
+  "fancy-a-story@@theme-variant-light": "fas-custom-light"
+}
