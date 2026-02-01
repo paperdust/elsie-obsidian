@@ -747,10 +747,10 @@ Dragons are rare, respected, and varied. Most people have never seen one.
 - Small but precise fire breath (candles, wax seals, dramatic emphasis)
 
 **Magic:**
-- Sense when books in their care are damaged, stolen, or in distress
-- Enhanced senses (smell lies, track by scent, see heat)
-- Long memory (remembers every book and borrower)
-- Minor fire magic (precise, not powerful)
+- **Omniglot Reading** — Can read any writing instantly, regardless of language/cipher
+- **Total Recall** — Memorizes every book in their collection
+- **Book-sense** — Hyper-perceptive about books; often oblivious to other things
+- **Fire breath** — Minor fire magic (precise, not powerful)
 
 **Lore:**
 - Hatch from eggs left in libraries with sufficiently large collections

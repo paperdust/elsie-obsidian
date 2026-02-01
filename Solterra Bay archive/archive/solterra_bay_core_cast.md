@@ -559,3 +559,189 @@ Imelda is 187. Elves live long, but not forever. Cornelius is 127. Library drago
 Someday, it will be Cornelius and Zeph. Someday, it might just be Cornelius.
 
 No one talks about this. Everyone thinks about it.
+
+---
+
+## Captain Theodoros "Theo" Melas — The Watch Captain
+
+### Basic Information
+
+| | |
+|---|---|
+| **Species** | Human |
+| **Age** | 44 |
+| **Role** | Captain of the Solterra Bay Town Watch; official law enforcement; recurring obstacle |
+| **Heritage** | Hellenic, old Solterra Bay family |
+
+### The Cozy Mystery Law Enforcement Trope
+
+In cozy mysteries, the professional law enforcement character serves specific narrative functions:
+
+- **Creates obstacles** for the amateur sleuth without being antagonistic
+- **Represents "proper channels"** that don't work for the kinds of mysteries the protagonist solves
+- **Provides official authority** the amateur lacks (warrants, arrests, access)
+- **Grounds the story** in consequences—there IS law here, even if it's not solving the case
+- **Eventually becomes an ally** who learns to trust the amateur's methods (grudgingly)
+
+Theo fills this role while fitting Solterra Bay's community feel.
+
+### Appearance
+
+- **Build:** Solid, broad-shouldered, going slightly soft in the middle (too much time at a desk now)
+- **Face:** Weather-lined, sun-darkened skin, permanent squint from years on harbor patrol
+- **Hair:** Black going grey at the temples, kept short and practical
+- **Eyes:** Dark brown, tired but observant; misses less than he lets on
+- **Uniform:** The Watch's practical tunic in faded blue, bronze badge of office, sandals in summer, boots in winter
+- **Notable:** An old scar across his left forearm (fishing accident in his youth, not heroic)
+
+### Personality
+
+**The Reasonable Obstacle**
+
+Theo is not incompetent. He's not corrupt. He's not stupid. He's a decent man doing a difficult job in a small town where everyone knows everyone and "proper procedure" runs headlong into "but that's old Yiayia Despina's grandson."
+
+He solves the crimes he can solve—bar fights, petty theft, the occasional smuggling operation. He maintains order. He keeps the peace.
+
+But book theft? Missing library items? The weird cases that Cornelius insists are crimes? Those fall into the grey area where Theo's authority doesn't quite reach and his methods don't quite work.
+
+**Key Traits:**
+
+- **Pragmatic** — Deals with what's in front of him
+- **Overworked** — Three watchmen for the whole town; he can't chase every complaint
+- **Skeptical** — Of dragon "investigations," of amateur sleuthing, of anything that makes his job harder
+- **Fair** — Won't bend rules but won't abuse them either
+- **Tired** — Has seen too much small-town drama to get excited about most things
+- **Secretly impressed** — When Cornelius is right (which is often), though he'd never say so
+
+**What He's Actually Like:**
+
+Theo joined the Watch at eighteen because it was steady work. He never expected to be Captain—the old Captain died suddenly, and Theo was the senior man. Now he's responsible for everything, answers to the Mayor, and spends more time on paperwork than patrol.
+
+He doesn't dislike Cornelius. He just doesn't understand why a dragon cares so much about overdue books, and he really doesn't appreciate a cat-sized lizard telling him how to do his job.
+
+But... the dragon is usually right. That's the annoying part.
+
+### His Role in Stories
+
+**The Obstacle Function:**
+
+When Cornelius investigates, Theo is the voice of "proper channels":
+
+- "That's not actually a crime, Cornelius."
+- "You can't just *follow* people because they didn't return a book."
+- "Even if you're right, I can't arrest someone based on a dragon's sense of smell."
+- "This is Watch business. Stay out of it."
+
+**Why Cornelius Solves Cases Anyway:**
+
+- Theo doesn't have time/resources for "minor" complaints
+- Theo's methods (questions, warrants, procedures) don't work for book mysteries
+- Cornelius has access Theo doesn't (the library, patron records, community trust)
+- Cornelius notices things Theo misses (dragon senses, century of memory)
+- Some "crimes" aren't crimes at all—just community problems that need solving
+
+**The Evolving Relationship:**
+
+| Book | Their Dynamic |
+|------|---------------|
+| **1** | Mutual irritation; Theo dismisses Cornelius's concerns |
+| **2** | Grudging acknowledgment that Cornelius found something Theo missed |
+| **3** | Reluctant cooperation when cases overlap |
+| **4** | Theo asks Cornelius for help (privately, unofficially) |
+| **5** | Genuine respect; Theo defends the library's importance to the council |
+
+### His Relationship with the Core Cast
+
+**With Cornelius:**
+- Exasperation → grudging respect → unlikely alliance
+- "I don't tell you how to run your library; don't tell me how to run my Watch."
+- Eventually: "Fine. What did you notice that I didn't?"
+
+**With Imelda:**
+- Respectful; she's an elder and a town institution
+- She occasionally intercedes when Cornelius and Theo clash
+- "Captain, he means well. He just... cares very much about books."
+- Theo's mother used to bring him to the library as a child; Imelda remembers
+
+**With Zeph:**
+- Mildly suspicious at first (teenagers, always trouble)
+- Comes to see them as useful ("You're less conspicuous than a dragon")
+- Might become a mentor figure if Zeph ever considers Watch work (probably not, but the option exists)
+
+### His Watch
+
+The Solterra Bay Town Watch is not a police force—it's closer to a sheriff and deputies:
+
+**Staff:**
+- **Captain Theo** — In charge, handles serious matters
+- **Sergeant Phokas** (human, 35) — Reliable, unimaginative, does the night patrols
+- **Watchman Demos** (half-orc, 28) — Young, eager, related to half the harbor workers
+- **Part-time auxiliaries** — Citizens who help during festivals or emergencies
+
+**What They Handle:**
+- Keeping the peace (breaking up fights, calming disputes)
+- Petty crime (theft, vandalism, drunk and disorderly)
+- Harbor security (smuggling, customs violations)
+- Tax collection assistance (unpopular but necessary)
+- Emergency response (fires, storms, accidents)
+
+**What They Don't Handle Well:**
+- Subtle crimes without clear perpetrators
+- Community problems that aren't technically illegal
+- Anything requiring investigation beyond "ask around and hope someone talks"
+- Dragon complaints about overdue books
+
+### Voice Notes
+
+Theo speaks like a tired professional dealing with the public:
+
+- **Direct and practical** — No flowery language
+- **Patient but limited** — He'll explain once, maybe twice
+- **Dry humor** — Developed over years of dealing with town drama
+- **Knows everyone** — Uses names, remembers histories
+
+**Sample dialogue:**
+
+> "Cornelius." Theo didn't bother with pleasantries. "I got your note. Three notes, actually. My desk is running out of room."
+>
+> "Then perhaps you should *act* on them," I said. "The Helianos family has had that book for six weeks. Six weeks! It's a navigational treatise from the Pergamon collection—"
+>
+> "It's an overdue library book." Theo rubbed his face. "Do you know what I dealt with this morning? Nikolas Doukas and Stavros Kallistos nearly came to blows at the market. Over *tiles*. I've got a ship captain claiming someone stole cargo that he probably sold himself. And old Yiayia Kostopoulos insists someone's been moving her garden gnome."
+>
+> "The gnome is irrelevant. The book—"
+>
+> "Is overdue. Not stolen. Overdue." He held up a hand. "Send another note. Charge a late fee. That's library business, not Watch business."
+>
+> "And if I were to investigate myself?"
+>
+> Theo gave me a long look. "As long as you don't break any laws, harass any citizens, or cause any incidents I have to clean up, I don't care what you do with your afternoons."
+>
+> "How gracious."
+>
+> "I try." He was already turning away. "Let me know if you find an actual crime. And Cornelius? If you're right about something, *again*, I don't want to hear about it."
+
+### Backstory Notes
+
+- Born in Solterra Bay, never left for more than a few months
+- His father was a fisherman (lost at sea when Theo was twelve)
+- Joined the Watch because it was steady income to support his mother
+- Never married; too busy, or too used to being alone
+- Lives in a small house near the Watch station
+- Secretly enjoys the mystery novels in the library's collection (borrows under his mother's name)
+
+### Story Potential
+
+**Mystery Connections:**
+- Theo brings cases that have stalled—"I didn't say I needed help, but if you *happened* to notice something..."
+- Theo's official access (warrants, jail cells, authority) becomes useful when Cornelius actually finds a crime
+- Cornelius's unofficial access (library records, patron trust, dragon senses) complements Theo's limitations
+
+**Character Potential:**
+- Theo's past might connect to a mystery (his father's "accident"?)
+- He might have to choose between procedure and justice
+- His respect for the library could grow into advocacy (Book 5 council scene)
+
+**Comedic Potential:**
+- The dignified dragon and the exasperated captain
+- Theo pretending he doesn't rely on Cornelius's help
+- The Watch using the library as unofficial case research (Theo won't admit this either)
