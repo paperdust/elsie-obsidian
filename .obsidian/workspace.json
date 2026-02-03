@@ -11,14 +11,10 @@
             "id": "742e534c5f4288c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solterra Bay archive/Book Ideas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Book Ideas"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solterra Bay archive/Book Ideas.md",
+                "file": "Solterra Bay/02_story_bible.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Book Ideas"
+              "title": "Outline of 02_story_bible"
             }
           }
         ],
@@ -169,12 +165,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "742e534c5f4288c7",
+  "active": "7021c7cf266551f6",
   "lastOpenFiles": [
-    "Solterra Bay/task.md",
     "Solterra Bay/01-required-data-layer.md",
-    "Prompt Library/Series Creation/Series Creation Prompt v001.md",
     "Solterra Bay archive/Book Ideas.md",
+    "Solterra Bay/task.md",
+    "Prompt Library/Series Creation/Series Creation Prompt v001.md",
     "Solterra Bay/Book 1/Prepwork/chapters/ch20_resolution.md",
     "Solterra Bay/Book 1/Prepwork/chapters/ch19_reveal.md",
     "Solterra Bay/Book 1/Prepwork/chapters/ch18_climax.md",
