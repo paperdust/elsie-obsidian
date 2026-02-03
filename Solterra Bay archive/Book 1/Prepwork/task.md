@@ -1,0 +1,38 @@
+# Solterra Bay Project Plan
+
+- [/] **Phase 1: Foundation & RDL**
+    - [x] Analyze Braindump files (`voice_guide.md`, `world_bible.md`) <!-- id: 0 -->
+    - [x] Check available Genre Modules <!-- id: 1 -->
+    - [x] Notify User for RDL input & Genre selection <!-- id: 2 -->
+    - [x] Generate `Required Data Layer` (RDL) artifact <!-- id: 3 -->
+- [x] **Phase 2: Story Bible & Engine**
+    - [x] Read `02-story-bible-and-engine.md` instructions <!-- id: 4 -->
+    - [x] Generate `Story Bible` artifact <!-- id: 5 -->
+- [x] **Phase 3: Chapter Threshold Plan**
+    - [x] Read `03-chapter-threshold-plan.md` instructions <!-- id: 6 -->
+    - [x] Generate `Chapter Threshold Plan` artifact <!-- id: 7 -->
+- [/] **Phase 4: Drafting**
+    - [x] Read `04-draft-and-update.md` instructions <!-- id: 8 -->
+    - [x] Draft Chapter 1 <!-- id: 9 -->
+    - [x] Draft Chapter 2 (Summary) <!-- id: 10 -->
+    - [x] Draft Chapter 3 (Summary) <!-- id: 11 -->
+    - [x] Draft Chapter 4 (Summary) <!-- id: 12 -->
+    - [x] Draft Chapter 5 (Summary) <!-- id: 13 -->
+- [ ] **Phase 5: Act 2 Drafting**
+    - [x] Draft Chapter 6 (Summary) <!-- id: 14 -->
+    - [x] Draft Chapter 7 (Summary) <!-- id: 15 -->
+    - [x] Draft Chapter 8 (Summary) <!-- id: 16 -->
+    - [x] Draft Chapter 9 (Summary) <!-- id: 17 -->
+    - [x] Draft Chapter 10 (Summary) <!-- id: 18 -->
+- [ ] **Phase 6: Act 3 Drafting**
+    - [x] Draft Chapter 11 (Summary) <!-- id: 19 -->
+    - [x] Draft Chapter 12 (Summary) <!-- id: 20 -->
+    - [x] Draft Chapter 13 (Summary) <!-- id: 21 -->
+    - [x] Draft Chapter 14 (Summary) <!-- id: 22 -->
+    - [x] Draft Chapter 15 (Summary) <!-- id: 23 -->
+- [ ] **Phase 7: Act 4 Drafting**
+    - [x] Draft Chapter 16 (Summary) <!-- id: 24 -->
+    - [x] Draft Chapter 17 (Summary) <!-- id: 25 -->
+    - [x] Draft Chapter 18 (Summary) <!-- id: 26 -->
+    - [x] Draft Chapter 19 (Summary) <!-- id: 27 -->
+    - [x] Draft Chapter 20 (Summary) <!-- id: 28 -->

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solterra Bay/Instructions/03-chapter-threshold-plan.md",
+                "file": "Solterra Bay archive/Book Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-chapter-threshold-plan"
+              "title": "Book Ideas"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solterra Bay/Instructions/03-chapter-threshold-plan.md",
+                "file": "Solterra Bay archive/Book Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03-chapter-threshold-plan"
+              "title": "Outline of Book Ideas"
             }
           }
         ],
@@ -171,41 +171,41 @@
   },
   "active": "742e534c5f4288c7",
   "lastOpenFiles": [
-    "Solterra Bay/03_chapter_threshold_plan.md",
-    "Solterra Bay/02_story_bible.md",
-    "Solterra Bay/braindump/world_bible.md",
-    "Solterra Bay/01-required-data-layer.md",
-    "Solterra Bay/genre_modules/cozy_mystery.md",
     "Solterra Bay/task.md",
-    "Solterra Bay/npe_state/initial_state.md.resolved.4",
-    "Solterra Bay/npe_state/initial_state.md.resolved.3",
-    "Solterra Bay/npe_state/initial_state.md.resolved.2",
-    "Solterra Bay/npe_state/initial_state.md.resolved.1",
-    "Solterra Bay/npe_state/initial_state.md.resolved.0",
-    "Solterra Bay/npe_state/initial_state.md.resolved",
-    "Solterra Bay/npe_state/initial_state.md.metadata.json",
-    "Solterra Bay/npe_state/initial_state.md",
-    "Solterra Bay/Instructions/02-story-bible-and-engine.md",
-    "Prompt Library/Series Creation/Original Prompt.md",
-    "Solterra Bay/world_bible.md",
-    "Solterra Bay/braindump/voice_guide.md",
-    "Solterra Bay/braindump/story_bible.md",
-    "Solterra Bay archive/archive/solterra_bay_tile_families.md",
-    "Solterra Bay archive/archive/solterra_bay_peoples_and_creatures.md",
-    "Solterra Bay archive/archive/solterra_bay_locations.md",
-    "Solterra Bay archive/archive/solterra_bay_food.md",
-    "Solterra Bay archive/archive/solterra_bay_core_cast.md",
-    "Solterra Bay archive/archive/solterra_bay_healing.md",
-    "Solterra Bay archive/archive/solterra_bay_characters.md",
-    "Solterra Bay archive/archive/solterra_bay_architecture.md",
-    "Solterra Bay archive/archive/cozy_fantasy_worldbuilding_research_2026.md",
-    "Solterra Bay archive/archive",
-    "Solterra Bay archive",
-    "Neuer Ordner",
-    "Solterra Bay/world_bible_vol2_setting.md",
-    "Solterra Bay/world_bible_vol1_people.md",
-    "Solterra Bay/story_bible.md",
-    "Solterra Bay/voice_guide.md",
-    "Prompt Library/Series Creation/Series Creation Prompt v001.md"
+    "Solterra Bay/01-required-data-layer.md",
+    "Prompt Library/Series Creation/Series Creation Prompt v001.md",
+    "Solterra Bay archive/Book Ideas.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch20_resolution.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch19_reveal.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch18_climax.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch17_epiphany.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch13_pinch_point_2.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch15_plot_point_twist.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch16_rising_challenge.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch14_gathering_support.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch12_the_muddle.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch10_midpoint.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch11_reaction.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch05_the_threshold.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch09_false_confidence.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch08_pinch_point_1.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch03_complication.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch07_deepening.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch06_investigation.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch04_valley_shadows.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch02_inciting_incident.md",
+    "Solterra Bay/Book 1/Prepwork/chapters/ch01_the_silence.md",
+    "Solterra Bay/Book 1/Prepwork/chapters",
+    "Solterra Bay/Book 1/Prepwork/task.md",
+    "Solterra Bay/Book 1/Prepwork/03_chapter_threshold_plan.md",
+    "Solterra Bay/Book 1/Prepwork/yfd worksheet",
+    "Solterra Bay/Book 1/Prepwork/npe_state",
+    "Solterra Bay/Book 1/Prepwork",
+    "Solterra Bay/Book 1/Neuer Ordner",
+    "Solterra Bay/Book 1/yfd worksheet",
+    "Solterra Bay/Book 1/npe_state",
+    "Solterra Bay/Book 1/chapters",
+    "Solterra Bay/Book 1/Draft 1",
+    "Solterra Bay/Book 1"
   ]
 }
