@@ -1,0 +1,95 @@
+# Task: Generate Required Data Layer (RDL)
+
+- [ ] Read instruction files <!-- id: 0 -->
+    - [x] 00-coreprompt.md
+    - [x] 01-rdl.md
+- [x] Read context files <!-- id: 1 -->
+    - [x] braindump/world_bible.md
+    - [x] braindump/voice_guide.md
+    - [x] genre_modules/cozy_mystery.md
+- [x] Notify User (Pre-execution step) <!-- id: 2 -->
+    - [x] List identified brain dump files
+    - [x] List genre modules
+    - [x] Ask for additional info/constraints
+- [/] Generate RDL <!-- id: 3 -->
+    - [x] Create `REQUIRED DATA LAYER` document
+    - [x] Normalize inputs into NPE format
+    - [x] Add genre-specific extensions if needed
+    - [/] Refine Suspects (A-F)
+- [ ] Verify RDL <!-- id: 4 -->
+    - [ ] Check against NPE constraints
+    - [ ] Request user approval
+- [x] Generate Story Bible & Engine <!-- id: 5 -->
+    - [x] Read instructions 02-story-bible-and-engine.md
+    - [x] Create `STORY BIBLE`
+    - [x] Create `NPE ENGINE STATE`
+    - [x] Verify Engine Health
+- [x] Generate Chapter Threshold Plan <!-- id: 6 -->
+    - [x] Read instructions 03-chapter-threshold-plan.md
+    - [x] Create `STRUCTURAL STORY PLAN` (4-Act Grid)
+    - [x] Request user approval
+- [x] Review & Fix Consistency <!-- id: 7 -->
+    - [x] Fix Ch 12 POV (Cornelius Chaperone)
+    - [x] Verify Book Titles (Secret Wonders)
+    - [x] Verify Character Names (Anthea, Orestes, Sophia)
+- [x] Draft Chapter 1 (Summary) <!-- id: 8 -->
+    - [x] Read instructions 04-draft-and-update.md
+    - [x] Create `ch01_state.md`
+    - [x] Create `ch01_summary.md`
+- [x] Draft Chapter 2 (Summary) <!-- id: 9 -->
+    - [x] Create `ch02_state.md`
+    - [x] Create `ch02_summary.md`
+- [x] Draft Chapter 3 (Summary) <!-- id: 10 -->
+    - [x] Create `ch03_state.md`
+    - [x] Create `ch03_summary.md`
+- [x] Draft Chapter 4 (Summary) <!-- id: 11 -->
+    - [x] Create `ch04_state.md`
+    - [x] Create `ch04_summary.md`
+- [x] Draft Chapter 5 (Summary) <!-- id: 12 -->
+    - [x] Create `ch05_state.md`
+    - [x] Create `ch05_summary.md`
+- [x] Draft Chapter 6 (Summary) <!-- id: 13 -->
+    - [x] Create `ch06_state.md`
+    - [x] Create `ch06_summary.md`
+- [x] Draft Chapter 7 (Summary) <!-- id: 14 -->
+    - [x] Create `ch07_state.md`
+    - [x] Create `ch07_summary.md`
+- [x] Draft Chapter 8 (Summary) <!-- id: 15 -->
+    - [x] Create `ch08_state.md`
+    - [x] Create `ch08_summary.md`
+- [x] Draft Chapter 9 (Summary) <!-- id: 16 -->
+    - [x] Create `ch09_state.md`
+    - [x] Create `ch09_summary.md`
+- [x] Draft Chapter 10 (Summary) <!-- id: 17 -->
+    - [x] Create `ch10_state.md`
+    - [x] Create `ch10_summary.md`
+- [x] Draft Chapter 11 (Summary) <!-- id: 18 -->
+    - [x] Create `ch11_state.md`
+    - [x] Create `ch11_summary.md`
+- [x] Draft Chapter 12 (Summary) <!-- id: 19 -->
+    - [x] Create `ch12_state.md`
+    - [x] Create `ch12_summary.md`
+- [x] Draft Chapter 13 (Summary) <!-- id: 20 -->
+    - [x] Create `ch13_state.md`
+    - [x] Create `ch13_summary.md`
+- [x] Draft Chapter 14 (Summary) <!-- id: 21 -->
+    - [x] Create `ch14_state.md`
+    - [x] Create `ch14_summary.md`
+- [x] Draft Chapter 15 (Summary) <!-- id: 22 -->
+    - [x] Create `ch15_state.md`
+    - [x] Create `ch15_summary.md`
+- [x] Draft Chapter 16 (Summary) <!-- id: 23 -->
+    - [x] Create `ch16_state.md`
+    - [x] Create `ch16_summary.md`
+- [x] Draft Chapter 17 (Summary) <!-- id: 24 -->
+    - [x] Create `ch17_state.md`
+    - [x] Create `ch17_summary.md`
+- [x] Draft Chapter 18 (Summary) <!-- id: 25 -->
+    - [x] Create `ch18_state.md`
+    - [x] Create `ch18_summary.md`
+- [x] Draft Chapter 19 (Summary) <!-- id: 26 -->
+    - [x] Create `ch19_state.md`
+    - [x] Create `ch19_summary.md`
+- [x] Draft Chapter 20 (Summary) <!-- id: 27 -->
+    - [x] Create `ch20_state.md`
+    - [x] Create `ch20_summary.md`
