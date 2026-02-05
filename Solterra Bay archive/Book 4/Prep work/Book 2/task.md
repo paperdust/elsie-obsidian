@@ -1,0 +1,22 @@
+# Task: Brainstorming Book 2 (The Stone Mystery)
+
+- [ ] Analyze World Bible constraints regarding Gorgons and Stone magic <!-- id: 0 -->
+- [ ] Brainstorm 3 distinct plot concepts involving stone transformation and a library scroll <!-- id: 1 -->
+- [x] Create `book_2_concepts.md` with the brainstormed options for user review <!-- id: 2 -->
+- [x] Add Culprit and Motive details to all 10 concepts <!-- id: 2a -->
+- [x] Brainstorm options for the "Important Patient" (Photine's Motive) <!-- id: 3a -->
+- [x] Create `book_2_rdl.md` (Required Data Layer) with Gorgon Enclave suspects <!-- id: 3 -->
+- [x] Refine `book_2_rdl.md` with specific conflict and discovery details <!-- id: 3a -->
+- [x] Update `book_2_rdl.md` to reflect Demos's "Protective" motive towards Photine <!-- id: 3b -->
+- [x] Document the Midpoint Twist (Photine petrifies Melaina) in RDL and NPE <!-- id: 3c -->
+- [x] Analyze the 3-Day Ticking Clock implications for Act 3/4 <!-- id: 3d -->
+- [x] Update RDL timeline: Save Demos, add "Fundraising Clues" layout <!-- id: 3e -->
+- [x] Define full Suspect Flower (Gorgons only) in RDL and Bible <!-- id: 3g -->
+- [x] Refine Suspects to align with Theme: "The Burden of Sight/Masking" <!-- id: 3h -->
+- [x] Rename Suspect Flower cast (Kyra, Ligeia, Xanthe, Myron) <!-- id: 3i -->
+- [x] Define Subplot: "The Great Book Cull" (Mirror to Triage Theme) <!-- id: 3j -->
+- [x] Clean up "Cull the Weak" references from Demos's arc in RDL/Bible <!-- id: 3k -->
+- [x] Create final `book_2_story_bible.md` synthesizing all decisions <!-- id: 3f -->
+- [ ] Create `book_2_npe_state.md` (Initial Narrative Physics State) <!-- id: 3l -->
+- [ ] Create `book_2_threshold_map.md` (Structural Story Plan) <!-- id: 3m -->
+- [ ] Update `world_bible.md` if necessary (e.g., clarifying "Stone" magic nuances) <!-- id: 4 -->
