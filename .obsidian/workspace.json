@@ -11,14 +11,10 @@
             "id": "742e534c5f4288c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solterra Bay/03_structural_story_plan.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03_structural_story_plan"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solterra Bay/03_structural_story_plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03_structural_story_plan"
+              "title": "Outline"
             }
           }
         ],
@@ -172,41 +167,41 @@
   },
   "active": "742e534c5f4288c7",
   "lastOpenFiles": [
-    "Solterra Bay/braindump/book_2_npe_state.md",
-    "Solterra Bay/npe_state/initial_state.md",
-    "Solterra Bay/02_story_bible.md",
-    "Solterra Bay/01_rdl.md",
-    "Solterra Bay/03_structural_story_plan.md",
-    "Solterra Bay/braindump/npe_analysis_photine.md",
-    "Solterra Bay/braindump/npe_analysis_midpoint.md",
-    "Solterra Bay/braindump/npe_analysis_conflict.md",
-    "Solterra Bay/braindump/book_2_story_bible.md",
-    "Solterra Bay/braindump/book_2_rdl.md",
-    "Solterra Bay/Book 2/task.md",
-    "Solterra Bay/Book 2/npe_analysis_ticking_clock.md",
-    "Solterra Bay/Book 2/npe_analysis_suspect_themes.md",
-    "Solterra Bay/braindump/book_2_threshold_map.md",
-    "Solterra Bay/Book 2/book_2_premise_refinement.md",
-    "Solterra Bay/Book 2/book_2_concepts.md",
-    "Solterra Bay archive/Book 4/Prep work/Book 2/task.md",
-    "Solterra Bay archive/Book 4/Prep work/Book 2/npe_analysis_ticking_clock.md",
-    "Solterra Bay archive/Book 4/Prep work/Book 2/npe_analysis_suspect_themes.md",
-    "Solterra Bay archive/Book 4/Prep work/Book 2/npe_analysis_photine.md",
-    "Solterra Bay archive/Book 4/Prep work/Book 2/npe_analysis_midpoint.md",
-    "Solterra Bay archive/Book 4/Prep work/Book 2/npe_analysis_conflict.md",
-    "Solterra Bay archive/Book 4/Prep work/Book 2/book_2_threshold_map.md",
-    "Solterra Bay archive/Book 4/Prep work/Book 2/book_2_story_bible.md",
-    "Solterra Bay archive/Book 4/Prep work/Book 2/book_2_rdl.md",
-    "Solterra Bay archive/Book 4/Prep work/Book 2/book_2_premise_refinement.md",
-    "Solterra Bay archive/Book 4/Prep work/Book 2",
-    "Solterra Bay archive/Book 4/Prep work",
-    "Solterra Bay archive/Book 4/Neuer Ordner",
-    "Solterra Bay archive/Book 4",
-    "Solterra Bay archive/Neuer Ordner",
-    "Solterra Bay/npe_state",
-    "Solterra Bay/Book 2",
-    "Solterra Bay/Book 2 - The Stilled Disciple",
-    "Solterra Bay archive/Book 3/Prep Work/yfd",
-    "Solterra Bay archive/Book 3/Prep Work/npe_state"
+    "Prompt Library/NPE Starter pack/genre_modules/cozy_mystery.md",
+    "Prompt Library/NPE Starter pack/genre_modules",
+    "Prompt Library/NPE Starter pack/braindump",
+    "Prompt Library/NPE Starter pack/Instructions/03-chapter-threshold-plan.md",
+    "Prompt Library/NPE Starter pack/Instructions/04-draft-and-update.md",
+    "Prompt Library/NPE Starter pack/Instructions/02-story-bible-and-engine.md",
+    "Prompt Library/NPE Starter pack/Instructions/00-coreprompt.md",
+    "Prompt Library/NPE Starter pack/Instructions/01-rdl.md",
+    "Prompt Library/NPE Starter pack/Instructions",
+    "Prompt Library/NPE Starter pack",
+    "Prompt Library/Neuer Ordner",
+    "Solterra Bay/yfd/act_4.md",
+    "Solterra Bay archive/Book 5/Pre-Work/yfd/worldbuilding.md",
+    "Solterra Bay archive/Book 5/Pre-Work/yfd/project_essentials.md",
+    "Solterra Bay archive/Book 5/Pre-Work/yfd/plot_development.md",
+    "Solterra Bay archive/Book 5/Pre-Work/yfd/outline_overview.md",
+    "Solterra Bay archive/Book 5/Pre-Work/yfd/cozy_fantasy_elements.md",
+    "Solterra Bay archive/Book 5/Pre-Work/yfd/character_roster.md",
+    "Solterra Bay archive/Book 5/Pre-Work/yfd/author's_voice_and_writing_style.md",
+    "Solterra Bay archive/Book 5/Pre-Work/yfd/act_4.md",
+    "Solterra Bay archive/Book 5/Pre-Work/yfd/act_3.md",
+    "Solterra Bay archive/Book 5/Pre-Work/yfd/act_2.md",
+    "Solterra Bay archive/Book 5/Pre-Work/yfd/act_1.md",
+    "Solterra Bay archive/Book 5/Pre-Work/yfd",
+    "Solterra Bay archive/Book 5/Pre-Work/npe_state/ch20_state.md",
+    "Solterra Bay archive/Book 5/Pre-Work/npe_state/ch19_state.md",
+    "Solterra Bay archive/Book 5/Pre-Work/npe_state/ch18_state.md",
+    "Solterra Bay archive/Book 5/Pre-Work/npe_state/ch17_state.md",
+    "Solterra Bay archive/Book 5/Pre-Work/npe_state/ch15_state.md",
+    "Solterra Bay archive/Book 5/Pre-Work/npe_state/ch16_state.md",
+    "Solterra Bay archive/Book 5/Pre-Work/npe_state/ch14_state.md",
+    "Solterra Bay archive/Book 5/Pre-Work/npe_state/ch10_state.md",
+    "Solterra Bay archive/Book 5/Pre-Work/npe_state",
+    "Solterra Bay archive/Book 5/Pre-Work/chapters",
+    "Solterra Bay archive/Book 5/Pre-Work/braindump",
+    "Solterra Bay archive/Book 5/Pre-Work"
   ]
 }
